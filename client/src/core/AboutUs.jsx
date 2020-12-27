@@ -43,8 +43,8 @@ const AboutUs = () => {
 				}}
 			>
 				This is a simple Game-Store project made for Web Development course in
-				KLS Gogte Institue of Technology. It allows users to make accounts and
-				saves the products they add to their cart in the database.
+				KLS Gogte Institue of Technology. It allows users to sign up and saves
+				the products they add to their cart in the database.
 			</h4>
 			<h4
 				style={{
@@ -56,10 +56,9 @@ const AboutUs = () => {
 				}}
 			>
 				This app saves games into categories, and games can be filtered using
-				categories. The user could search based on the category they select.
-				This has not been implemented yet, but will be soon. There's also an
-				admin panel to make/update categories/products. The source code is
-				available on{" "}
+				categories. The user can search games based on the category they select.
+				There's also an admin panel to make or update categories/products. The
+				entire source code is available on{" "}
 				<a target="blank" href="https://github.com/shreyasx/gamingstore">
 					GitHub
 				</a>
