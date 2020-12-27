@@ -1,2 +1,2 @@
-III Sem Web Project.<br/>
-Frontend repository: https://github.com/shreyasx/gamestore-frontend
+<h1>III Sem Web Project.<br/></h1>
+<h2>Website hosted at: https://gamestore.shreyasx.vercel.app/</h2>
